@@ -1,1 +1,7 @@
-
+<bug>
+  <id>7ebcf985-f7dc-4b78-9e17-b346dd910a0a</id>
+  <pinHead>{"x":100,"y":100}<pinHead>
+  <selected>true</selected>
+  <text>Here is a note</text>
+  <size>{"width":64,"height":32}</size>
+</bug>
